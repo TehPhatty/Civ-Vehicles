@@ -1,0 +1,74 @@
+Lexus RCF	rcf	550000	imports
+Drift Contender	contenderc	250000	imports
+Eleanor Mustang	eleanor	900000	imports
+Chevy Silverado	ext06	150000	imports
+Camaro Exorsist	exor	225000	imports
+Corvette ZR1	corvettezr1	500000	imports
+Velociraptor	raptor2017	450000	imports
+Hyundai Veloster	veln	350000	imports
+Aston Martin DB11	db11	1000000	imports
+Range Rover Evoque	evoque	300000	imports
+Grand Cherokee Demonhawk	demonhawk	600000	imports
+Bugatti Divo	divo	1500000	imports
+Slammed Vapid Special	vapidlow	700000	imports
+Mercedes E500	e500c	175000	imports
+Lamborghini Urus	urus	700000	imports
+ElCamino SS	elcamino	100000	imports
+Ferrari California	fc13	600000	imports
+Mustang GT	fmgt	420000	imports
+Mazda Miata	na6	350000	imports
+Concept Mercedes	mvisiongt	2000000	imports
+Javelin 401	jav401	225000	imports
+MonteCarlo	montecarlo	120000	imports
+Jeep Rubicon	jp12	350000	imports
+Cadillac CTS-V	kev	625000	imports
+Lifted Ram	megaram	310000	imports
+KTM 690	ktm690	75000	imports
+Maserati GT4	mcgt4	800000	imports
+Subaru WRX STI	subwrx	300000	imports
+Lancer EVO X	lanex400	200000	imports
+70's Challenger	hs	500000	imports
+Mopar Hemi	hemi	800000	imports
+Loki Trophy Truck	k5	500000	imports
+Hoonicorn	fordh	600000	imports
+Convertable Jaguar	p7	500000	imports
+McLaren P1GTR	p1gtr	1250000	imports
+Herse	lurcher2	300000	imports
+Nissan Titan	nissantitan17	350000	imports
+Ninja H2	ninjah2	150000	imports
+Jeep Trailcat	trailcat	350000	imports
+Ford GT	gt17	1000000	imports
+Toyota 86	gt86	300000	imports
+Hummer H1	h1	250000	imports
+Drag Bike	lowweight	150000	imports
+BMW M4	rmodm4gts	650000	imports
+Chevy 1500	1500dj	250000	imports
+BMW S1000	bmws	150000	imports
+Silvia Rocket Bunny	s15rb	500000	imports
+BMW I8	rmodbmwi8	800000	imports
+Mercedes AMG	amggtr	500000	imports
+BMW M3	rmodm3e36	650000	imports
+Boss GT	rmodmustang	600000	imports
+Honda S2000	ap2	350000	imports
+Apollo Gumpert	apollos	1050000	imports
+Audi R8	arv10	800000	imports
+Mazda RX8 Drift	rx8m	350000	imports
+Subaru BRZ	brz	450000	imports
+Pagani Zonda	rmodpagani	1500000	imports
+Lamborghini Zentenario	zentenario	1000000	imports
+Nissan GTR	GTR	750000	imports
+M4 GTS	rmondm4gts	700000	imports
+Challenger Hellcat	16challenger	600000	imports
+Charger Hellcat	16charger	250000	imports
+Hurrican Performante	18performante	1200000	imports
+F150 Raptor	f150	300000	imports
+Dodge Ram Offroad	19ramoffroad	350000	imports
+Liberty Walk Ferrari	360modenalb	600000	imports
+CRF 450	450crf	75000	imports
+Audi RS3	rs318	375000	imports
+Porsche Cayman	cayman16	600000	imports
+Convertable Ferrari	488	750000	imports
+Audi RS5R	rs5r	300000	imports
+911	911tbs	550000	imports
+Datsun 510	510	225000	imports
+
