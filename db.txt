@@ -72,3 +72,5 @@ Audi RS5R	rs5r	300000	imports
 911	911tbs	550000	imports
 Datsun 510	510	225000	imports
 
+Lamborghini Veneno	rmodveneno	2000000	imports
+GTR Skyline	skyline	400000	imports
