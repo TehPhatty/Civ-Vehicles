@@ -1,9 +1,7 @@
-start 17gt500
 start 18jeep
 start chargerpatrol
 start dodgeems
 start f750
-start harleyvr
 start impala
 start lssdchamp
 start polaventa
@@ -89,3 +87,8 @@ start zentenario
 start rmodveneno
 start superkart
 start skyline
+start lb750sv
+start rmodgt63
+start models
+start rmodgtr
+start sv2
