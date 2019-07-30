@@ -74,3 +74,6 @@ Datsun 510	510	225000	imports
 
 Lamborghini Veneno	rmodveneno	2000000	imports
 GTR Skyline	skyline	400000	imports
+Mercedes GT63 rmodgt63 650000 imports
+GTR Widebody rmodgtr 700000 imports
+Tesla Model S models 700000 imports
